@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/artistik-tales/static/css/main.44a417ad.css",
+    "main.js": "/artistik-tales/static/js/main.03b0385b.js",
+    "static/media/image4.jpeg": "/artistik-tales/static/media/image4.08e59dfc2c33b1acbdd2.jpeg",
+    "static/media/image6.jpg": "/artistik-tales/static/media/image6.8e9c771f73ae06180d82.jpg",
+    "static/media/image5.jpg": "/artistik-tales/static/media/image5.31d06f799b6ed0807aa5.jpg",
+    "static/media/image7.jpg": "/artistik-tales/static/media/image7.1bbf3fed78cdca08b38d.jpg",
+    "static/media/image0.jpeg": "/artistik-tales/static/media/image0.8ead35776c9d275b80e6.jpeg",
+    "static/media/image2.jpeg": "/artistik-tales/static/media/image2.0c474a1583ad5c1a9605.jpeg",
+    "static/media/image1.jpeg": "/artistik-tales/static/media/image1.87690a55fc881c062698.jpeg",
+    "static/media/image3.jpeg": "/artistik-tales/static/media/image3.2df546335128b1d60b11.jpeg",
+    "static/media/logo.jpg": "/artistik-tales/static/media/logo.33866c1ddcc5b1fa97d7.jpg",
+    "index.html": "/artistik-tales/index.html",
+    "main.44a417ad.css.map": "/artistik-tales/static/css/main.44a417ad.css.map",
+    "main.03b0385b.js.map": "/artistik-tales/static/js/main.03b0385b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44a417ad.css",
+    "static/js/main.03b0385b.js"
+  ]
+}
